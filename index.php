@@ -8,6 +8,10 @@
 <body>
     <h1>Hello World</h1>
     <p>lorem magic quotes runtime</p>
+    <ol>
+        <li>list1</li>
+        <li>list2</li>
+    </ol>
 <body>
 </html?
 
